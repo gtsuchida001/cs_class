@@ -1,0 +1,15 @@
+C:\Users\tsuchida\source\repo\cs_class\cs_class\bin\Debug\net8.0\cs_class.exe
+C:\Users\tsuchida\source\repo\cs_class\cs_class\bin\Debug\net8.0\cs_class.deps.json
+C:\Users\tsuchida\source\repo\cs_class\cs_class\bin\Debug\net8.0\cs_class.runtimeconfig.json
+C:\Users\tsuchida\source\repo\cs_class\cs_class\bin\Debug\net8.0\cs_class.dll
+C:\Users\tsuchida\source\repo\cs_class\cs_class\bin\Debug\net8.0\cs_class.pdb
+C:\Users\tsuchida\source\repo\cs_class\cs_class\obj\Debug\net8.0\cs_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsuchida\source\repo\cs_class\cs_class\obj\Debug\net8.0\cs_class.AssemblyInfoInputs.cache
+C:\Users\tsuchida\source\repo\cs_class\cs_class\obj\Debug\net8.0\cs_class.AssemblyInfo.cs
+C:\Users\tsuchida\source\repo\cs_class\cs_class\obj\Debug\net8.0\cs_class.csproj.CoreCompileInputs.cache
+C:\Users\tsuchida\source\repo\cs_class\cs_class\obj\Debug\net8.0\cs_class.sourcelink.json
+C:\Users\tsuchida\source\repo\cs_class\cs_class\obj\Debug\net8.0\cs_class.dll
+C:\Users\tsuchida\source\repo\cs_class\cs_class\obj\Debug\net8.0\refint\cs_class.dll
+C:\Users\tsuchida\source\repo\cs_class\cs_class\obj\Debug\net8.0\cs_class.pdb
+C:\Users\tsuchida\source\repo\cs_class\cs_class\obj\Debug\net8.0\cs_class.genruntimeconfig.cache
+C:\Users\tsuchida\source\repo\cs_class\cs_class\obj\Debug\net8.0\ref\cs_class.dll
