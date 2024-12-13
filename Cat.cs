@@ -23,5 +23,9 @@ namespace cs_class
         {
             Console.WriteLine("スースー");
         }
+        public override void Speak()
+        {
+            Console.WriteLine("ニャー");
+        }
     }
 }

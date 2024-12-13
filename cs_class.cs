@@ -17,6 +17,8 @@ namespace cs_class
             dog.ShowProfile();
             cat.Sleep();
             dog.Run();
+            cat.Speak();
+            dog.Speak();
         }
     }
 }

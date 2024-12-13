@@ -15,4 +15,8 @@
     {
         Console.WriteLine("トコトコ");
     }
+    public override void Speak()
+    {
+        Console.WriteLine("ワンワン");
+    }
 }

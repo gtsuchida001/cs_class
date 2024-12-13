@@ -19,4 +19,8 @@ class Animal
     {
         Console.WriteLine(Name + "," + Age + "歳");
     }
+    public virtual void Speak()
+    {
+        Console.WriteLine("......");
+    }
 }
