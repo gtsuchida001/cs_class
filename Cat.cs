@@ -8,18 +8,20 @@ namespace cs_class
 {
     internal class Cat : Animal
     {
-        private string sleep = "";    // 猫種
+        private string sleep = ""; // 猫種
 
-        public string sleepinfo
+        public string SleepInfo
         {
             get { return sleep; }
             set { sleep = value; }
         }
 
+        public Cat(string name, int age) : base(name, age)
+        {
+        }
         public void Sleep()
         {
             Console.WriteLine("スースー");
         }
-
     }
 }

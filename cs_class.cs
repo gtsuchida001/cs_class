@@ -11,9 +11,7 @@ namespace cs_class
     {
         static void Main()
         {
-            Cat cat = new Cat();
-            cat.Name = "タマ";
-            cat.Age = 3;
+            Cat cat = new Cat("タマ", 3);
             cat.ShowProfile();
             cat.Sleep();
         }

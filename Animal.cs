@@ -6,8 +6,14 @@ using System.Threading.Tasks;
 
 class Animal
 {
-    public string Name = "";    // 名前
-    public int Age = 0;         // 年齢
+    public string Name { get; private set; }    // 名前
+    public int Age { get; private set; }        // 年齢
+
+    public Animal(string name, int age)
+    {
+        Name = name;
+        Age = age;
+    }
 
     public void ShowProfile()
     {
