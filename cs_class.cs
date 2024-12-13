@@ -12,6 +12,7 @@ namespace cs_class
         {
             Dog Pochi = new Dog();
             Pochi.Name = "ポチ";
+            Pochi.Ald = 3;
             Pochi.ShowProfile();
         }
     }
