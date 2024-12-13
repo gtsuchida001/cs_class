@@ -19,6 +19,6 @@
     public void ShowProfile()
     {
         Console.WriteLine(mName);
-        Console.WriteLine(mAld);
+        Console.WriteLine(mAld + "歳");
     }
 }
