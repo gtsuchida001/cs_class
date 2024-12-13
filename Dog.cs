@@ -1,29 +1,18 @@
-﻿class Dog
+﻿class Dog : Animal
 {
-    private string mName = "";    // 名前
-    private int mAld = 0;    // 年齢
-    private string mBreed = "";    // 犬種
+    private string run = ""; // 犬種
 
-    public Dog(string breed)
+    public string Runinfo
     {
-        mBreed = breed;
-    }
-    public string Name
-    {
-        get { return mName; }
-        set { mName = value; }
+        get { return run; }
+        set { run = value; }
     }
 
-    public int Ald
+    public Dog(string name, int age) : base(name, age)
     {
-        get { return mAld; }
-        set { mAld = value; }
     }
-
-    public void ShowProfile()
+    public void Run()
     {
-        Console.WriteLine(mName);
-        Console.WriteLine(mAld + "歳");
-        Console.WriteLine(mBreed);
+        Console.WriteLine("トコトコ");
     }
 }

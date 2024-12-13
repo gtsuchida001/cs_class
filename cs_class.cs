@@ -12,8 +12,11 @@ namespace cs_class
         static void Main()
         {
             Cat cat = new Cat("タマ", 3);
+            Dog dog = new Dog("ポチ", 5);
             cat.ShowProfile();
+            dog.ShowProfile();
             cat.Sleep();
+            dog.Run();
         }
     }
 }
